@@ -12,8 +12,11 @@ Sou programador e hoje atuo principalmente como full stack.
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorpolegato&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpolegato&layout=compact)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=igorpolegato&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=igorpolegato&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
 
 ---
 
