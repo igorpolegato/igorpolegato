@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou Igor
 
-<!--
-**igorpolegato/igorpolegato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou programador e hoje atuo principalmente como full stack.  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Atualmente trabalho como: Programador Full Stack
+- 📍 Localização: Ribeirão Preto / SP
+
+---
+
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<<SEU_USUARIO>>&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<<SEU_USUARIO>>&layout=compact)
+
+---
+
+## 📬 Contato
+
+- ✉️ Email: igorpolegato@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/igor-polegato-260386248/
+---
+
+⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela!
