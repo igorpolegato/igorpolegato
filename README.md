@@ -12,15 +12,19 @@ Sou programador e hoje atuo principalmente como full stack.
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<<SEU_USUARIO>>&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<<SEU_USUARIO>>&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorpolegato&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpolegato&layout=compact)
 
 ---
 
 ## 📬 Contato
+### **Conecte-se Comigo:**
 
-- ✉️ Email: igorpolegato@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/igor-polegato-260386248/
+<div align="center">
+  <a href="https://www.linkedin.com/in/igor-polegato-260386248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 ---
 
 ⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela!
