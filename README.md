@@ -32,6 +32,7 @@ Sou programador e hoje atuo principalmente como full stack.
   </a>
 
 </div>
+
 ---
 
 ⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela!
